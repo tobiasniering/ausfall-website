@@ -461,7 +461,6 @@ border-radius: 25px;
 	padding-top: 50px;
 }
 
-
 .produktteaser{
 	font-size: 2rem;
 	line-height: 2.9rem;
@@ -643,8 +642,8 @@ border-radius: 25px;
         text-align: center;
         align-items: center;
         }
-
     
+
     
     /* CTA Box */
     .cta-box{
@@ -674,7 +673,7 @@ border-radius: 25px;
     .kachel-ds-win,
     .kachel-e-connect{
         margin-bottom: 20px;
-    }
+     }
     
     .kachel-aiva img,
     .kachel-athena img,
@@ -684,7 +683,23 @@ border-radius: 25px;
         width: 100%;
         height: auto;
     }
+    
+    .kachel-aiva h3,
+    .kachel-athena h3,
+    .kachel-ds4 h3,
+    .kachel-ds-win h3,
+    .kachel-e-connect h3{
+        margin: 0 10px 20px 10px;
+        text-align: center
+     }
 
+    .hilfe-optionen ul,
+    .hilfe-optionen li{
+        list-style: none;
+    }
+
+}
+    
     /* Bilder */
     img{
         max-width: 100%;
