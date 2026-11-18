@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1614 960" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:2;">
+    <g transform="matrix(1.285209,0,0,1.288788,-808.776645,-6748.342987)">
+        <g transform="matrix(1.627053,0,0,1.457944,111.043846,3278.153837)">
+            <g id="Bildmarke" transform="matrix(14.703941,0,0,14.733057,-1110.23892,-198.545396)">
+                <g opacity="0.5">
+                    <g transform="matrix(1,0,0,1,-2.591498,-9.041699)">
+                        <path d="M162.4,126.2L131,162.8L143.9,162.8L168.9,133.7L162.4,126.2Z" style="fill:white;stroke:white;stroke-width:1.9px;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-2.591498,-9.041699)">
+                        <path d="M172.8,138.4L151.9,162.8L164.8,162.8L179.3,145.9L172.8,138.4Z" style="fill:white;stroke:white;stroke-width:1.9px;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-2.591498,-9.041699)">
+                        <path d="M152,114L110.1,162.8L123,162.8L158.4,121.6L152,114Z" style="fill:white;stroke:white;stroke-width:1.9px;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-2.591498,-9.041699)">
+                        <path d="M141.5,101.9L89.2,162.8L102.1,162.8L148,109.4L141.5,101.9Z" style="fill:white;stroke:white;stroke-width:1.9px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
